@@ -70,5 +70,14 @@
         "channel_id":  "popcornflix",
         "status":  "active",
         "last_checked":  "2026-06-27"
+    },
+    {
+        "id":  "movie_0009",
+        "tmdb_id":  568242,
+        "provider":  "youtube",
+        "video_id":  "KlttRc_y9ww",
+        "channel_id":  "popcornflix",
+        "status":  "active",
+        "last_checked":  "2026-06-27"
     }
 ]
