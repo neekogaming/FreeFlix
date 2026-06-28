@@ -1,83 +1,92 @@
 [
     {
-        "id":  "movie_0001",
-        "tmdb_id":  397852,
-        "provider":  "youtube",
-        "video_id":  "ra0vF8YSvps",
-        "channel_id":  "popcornflix",
-        "status":  "active",
-        "last_checked":  "2026-06-24"
+        "id": "movie_0001",
+        "tmdb_id": 397852,
+        "provider": "youtube",
+        "video_id": "ra0vF8YSvps",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-24"
     },
     {
-        "id":  "movie_0002",
-        "tmdb_id":  179310,
-        "provider":  "youtube",
-        "video_id":  "rOriUu7g2T0",
-        "channel_id":  "popcornflix",
-        "status":  "active",
-        "last_checked":  "2026-06-24"
+        "id": "movie_0002",
+        "tmdb_id": 179310,
+        "provider": "youtube",
+        "video_id": "rOriUu7g2T0",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-24"
     },
     {
-        "id":  "movie_0003",
-        "tmdb_id":  332280,
-        "provider":  "youtube",
-        "video_id":  "uFqyHj0qo60",
-        "channel_id":  "popcornflix",
-        "status":  "active",
-        "last_checked":  "2026-06-24"
+        "id": "movie_0003",
+        "tmdb_id": 332280,
+        "provider": "youtube",
+        "video_id": "uFqyHj0qo60",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-24"
     },
     {
-        "id":  "movie_0004",
-        "tmdb_id":  44396,
-        "provider":  "youtube",
-        "video_id":  "lfxmhvRHzkI",
-        "channel_id":  "popcornflix",
-        "status":  "active",
-        "last_checked":  "2026-06-27"
+        "id": "movie_0004",
+        "tmdb_id": 44396,
+        "provider": "youtube",
+        "video_id": "lfxmhvRHzkI",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-27"
     },
     {
-        "id":  "movie_0005",
-        "tmdb_id":  844380,
-        "provider":  "youtube",
-        "video_id":  "tR45DY0nm_k",
-        "channel_id":  "popcornflix",
-        "status":  "active",
-        "last_checked":  "2026-06-27"
+        "id": "movie_0005",
+        "tmdb_id": 844380,
+        "provider": "youtube",
+        "video_id": "tR45DY0nm_k",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-27"
     },
     {
-        "id":  "movie_0006",
-        "tmdb_id":  110080,
-        "provider":  "youtube",
-        "video_id":  "e87DCZZDw5g",
-        "channel_id":  "popcornflix",
-        "status":  "active",
-        "last_checked":  "2026-06-27"
+        "id": "movie_0006",
+        "tmdb_id": 110080,
+        "provider": "youtube",
+        "video_id": "e87DCZZDw5g",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-27"
     },
     {
-        "id":  "movie_0007",
-        "tmdb_id":  311085,
-        "provider":  "youtube",
-        "video_id":  "TEucuVX34Ig",
-        "channel_id":  "popcornflix",
-        "status":  "active",
-        "last_checked":  "2026-06-27"
+        "id": "movie_0007",
+        "tmdb_id": 311085,
+        "provider": "youtube",
+        "video_id": "TEucuVX34Ig",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-27"
     },
     {
-        "id":  "movie_0008",
-        "tmdb_id":  805222,
-        "provider":  "youtube",
-        "video_id":  "Na4t-pkzKDk",
-        "channel_id":  "popcornflix",
-        "status":  "active",
-        "last_checked":  "2026-06-27"
+        "id": "movie_0008",
+        "tmdb_id": 805222,
+        "provider": "youtube",
+        "video_id": "Na4t-pkzKDk",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-27"
     },
     {
-        "id":  "movie_0009",
-        "tmdb_id":  568242,
-        "provider":  "youtube",
-        "video_id":  "KlttRc_y9ww",
-        "channel_id":  "popcornflix",
-        "status":  "active",
-        "last_checked":  "2026-06-27"
+        "id": "movie_0009",
+        "tmdb_id": 568242,
+        "provider": "youtube",
+        "video_id": "KlttRc_y9ww",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-27"
+    },
+    {
+        "id": "movie_0010",
+        "tmdb_id": 293562,
+        "provider": "youtube",
+        "video_id": "I7Poye0FJfg",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-28"
     }
 ]
