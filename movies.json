@@ -1,1 +1,34 @@
-
+[
+    {
+        "id": "movie_0001",
+        "tmdb_id": 121091,
+        "video_id": "NG4UEfI2qes",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-29",
+        "title": "Fever",
+        "overview": "A struggling artist is implicated in a string of macabre murders.",
+        "release_date": "1999-05-16",
+        "vote_average": 4.654,
+        "runtime": 110,
+        "poster_path": "/8hCTCslXzFpQkMQ9LT2PJUjG7fm.jpg",
+        "backdrop_path": "",
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "director": "Alex Winter",
+        "cast": [
+            "Henry Thomas",
+            "Teri Hatcher",
+            "David O\u0027Hara",
+            "Bill Duke"
+        ]
+    }
+]
