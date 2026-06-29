@@ -98,5 +98,37 @@
             "Renne Korppila",
             "Matti Onnismaa"
         ]
+    },
+    {
+        "id": "movie_0004",
+        "tmdb_id": 142583,
+        "video_id": "oOzODYq1i1A",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-29",
+        "title": "Hijack",
+        "overview": "A prestigious senator and the passengers on board a train are kidnapped by a militia group.",
+        "release_date": "1999-08-31",
+        "vote_average": 4.714,
+        "runtime": 94,
+        "poster_path": "/zNSUyLctq6oOWmwi5tzREHFq5uw.jpg",
+        "backdrop_path": "/1DTR9KH6qrYXM1WKItCaqZJCuof.jpg",
+        "genres": [
+            {
+                "id": 53,
+                "name": "Thriller"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            }
+        ],
+        "director": "Worth Keeter",
+        "cast": [
+            "Jeff Fahey",
+            "Ernie Hudson",
+            "Beth Toussaint",
+            "Brent Huff"
+        ]
     }
 ]
