@@ -30,5 +30,37 @@
             "David O\u0027Hara",
             "Bill Duke"
         ]
+    },
+    {
+        "id": "movie_0002",
+        "tmdb_id": 19761,
+        "video_id": "wgBnLO4Pnb0",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-29",
+        "title": "Saturn 3",
+        "overview": "In the future, Earth is overcrowded and the population relies on distant bases to be fed. In the Saturn 3 station, Major Adam and the scientist Alex, who is also his lover and has never been on Earth, have been researching hydroponics for three years in the base alone with their dog Sally.  Captain Benson arrives Saturn 3 with Hector, incapable to controlling his emotions he transfers his homicidal tendency and insanity to Hector.  Now Major Adam and Alex are trapped in the station with a dangerous psychopath robot.",
+        "release_date": "1980-02-15",
+        "vote_average": 5.295,
+        "runtime": 87,
+        "poster_path": "/zAoLR1azwd8QbglnjWpOwJ4PI6C.jpg",
+        "backdrop_path": "/QJkAxxvQEgXs6K4H5nW8DkNfal.jpg",
+        "genres": [
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "director": "Stanley Donen",
+        "cast": [
+            "Farrah Fawcett",
+            "Kirk Douglas",
+            "Harvey Keitel",
+            "Ed Bishop"
+        ]
     }
 ]
