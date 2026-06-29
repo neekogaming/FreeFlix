@@ -262,5 +262,33 @@
             "John Henry Richardson",
             "Tim Abell"
         ]
+    },
+    {
+        "id": "movie_0009",
+        "tmdb_id": 799982,
+        "video_id": "_9uzCpsANQs",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-29",
+        "title": "Lair",
+        "overview": "A fractured family are forced to face their demons, metaphorically and literally, as they unwittingly become embroiled in a man\u0027s attempt to prove the existence of the supernatural in order to overturn a friend\u0027s murder conviction.",
+        "release_date": "2021-11-09",
+        "vote_average": 5.3,
+        "runtime": 96,
+        "poster_path": "/aEYZ9DJMPfoZqz8jCnB64IsJFEz.jpg",
+        "backdrop_path": "/sLRPQcnoXRduZpbLMDw9DQYOqFf.jpg",
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            }
+        ],
+        "director": "Adam Ethan Crow",
+        "cast": [
+            "Corey Johnson",
+            "Anya Newall",
+            "Aislinn De\u0027ath",
+            "Alana Wallace"
+        ]
     }
 ]
