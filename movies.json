@@ -194,5 +194,37 @@
             "Teri Ann Linn",
             "Scott Valentine"
         ]
+    },
+    {
+        "id": "movie_0007",
+        "tmdb_id": 291593,
+        "video_id": "paIAWYmmRb4",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-29",
+        "title": "Eyes of a Witness",
+        "overview": "Roy Baxter is concerned for his daughter Christina\u0027s safety. She\u0027s working as a doctor among the Masai in Kenya. Poaching gangs are slaughtering protected species, then raiding Masai villages and forcing them to help carry their ill-gotten gains across the border. Roy flies to Kenya to convince her to leave and becomes a suspect for murder when the village is raided and he tries to help a UN doctor shot by the raiders. The only witness is a young Masai boy, who is reluctant to come forward because of possible retribution against his tribe.",
+        "release_date": "1991-03-30",
+        "vote_average": 7,
+        "runtime": 100,
+        "poster_path": "",
+        "backdrop_path": "",
+        "genres": [
+            {
+                "id": 10770,
+                "name": "TV Movie"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "director": "Peter R. Hunt",
+        "cast": [
+            "Daniel J. Travanti",
+            "Jennifer Grey",
+            "Carl Lumbly",
+            "Daniel Gerroll"
+        ]
     }
 ]
