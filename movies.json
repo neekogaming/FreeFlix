@@ -130,5 +130,37 @@
             "Beth Toussaint",
             "Brent Huff"
         ]
+    },
+    {
+        "id": "movie_0005",
+        "tmdb_id": 22167,
+        "video_id": "B7RsU9_DTfU",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-29",
+        "title": "Knightriders",
+        "overview": "A medieval reenactment troupe struggles to maintain its family-like dynamic amid pressure from local authorities, interest from talent agents, and their so-called king\u0027s delusions of grandeur.",
+        "release_date": "1981-04-10",
+        "vote_average": 6.216,
+        "runtime": 147,
+        "poster_path": "/lawtQYZvwrjHMNkvrKWAF93tIoK.jpg",
+        "backdrop_path": "/kmZI8YxyYC0XDSEfehARUnCxAss.jpg",
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "director": "George A. Romero",
+        "cast": [
+            "Ed Harris",
+            "Gary Lahti",
+            "Tom Savini",
+            "Amy Ingersoll"
+        ]
     }
 ]
