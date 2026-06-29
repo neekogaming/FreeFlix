@@ -226,5 +226,41 @@
             "Carl Lumbly",
             "Daniel Gerroll"
         ]
+    },
+    {
+        "id": "movie_0008",
+        "tmdb_id": 28126,
+        "video_id": "LE2NLUd92sQ",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-29",
+        "title": "Fugitive Rage",
+        "overview": "Tara McCormick is sent to prison for the attempted murder of a local drug lord named Tommy Stompanato. Inside, she befriends Josie and is approached by a government agent to finish the job she started in exchange for her freedom.",
+        "release_date": "1996-11-19",
+        "vote_average": 3.111,
+        "runtime": 88,
+        "poster_path": "/4hmwjp3tHruxE3Xi98FuMGCLiVw.jpg",
+        "backdrop_path": "/qYsTf39gTBoE0dDwDU0clDhaNnh.jpg",
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "director": "Fred Olen Ray",
+        "cast": [
+            "Alexander Keith",
+            "Shauna O\u0027Brien",
+            "John Henry Richardson",
+            "Tim Abell"
+        ]
     }
 ]
