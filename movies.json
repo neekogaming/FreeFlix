@@ -358,5 +358,45 @@
             "Michael Par\u00E9",
             "Angie Teodora Dick"
         ]
+    },
+    {
+        "id": "movie_0012",
+        "tmdb_id": 48358,
+        "video_id": "oWMJSl_ARSA",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-29",
+        "title": "The Canterville Ghost",
+        "overview": "When a teenaged girl moves to England, with her brothers and parents into the ancient Canterville Hall, she\u0027s not at all happy. Especially as there\u0027s a ghost and a mysterious re-appearing bloodstain on the hearth. She campaigns to go back home, and her dad, believing the ghost\u0027s pranks are Ginny\u0027s, is ready to send her back. But then Ginny actually meets the elusive 17th-century Sir Simon de Canterville (not to mention the cute teenaged duke next door), and she sets her hand to the task of freeing Sir Simon from his curse.",
+        "release_date": "1996-01-27",
+        "vote_average": 6.338,
+        "runtime": 92,
+        "poster_path": "/daQl68yTtTnFIwKJoI3rrYsyvTO.jpg",
+        "backdrop_path": "/ccsLztuF4cKlfnriitwdxs0coBa.jpg",
+        "genres": [
+            {
+                "id": 10770,
+                "name": "TV Movie"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 10751,
+                "name": "Family"
+            }
+        ],
+        "director": "Sydney Macartney",
+        "cast": [
+            "Patrick Stewart",
+            "Neve Campbell",
+            "Joan Sims",
+            "Donald Sinden"
+        ]
     }
 ]
