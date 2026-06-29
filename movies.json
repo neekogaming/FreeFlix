@@ -162,5 +162,37 @@
             "Tom Savini",
             "Amy Ingersoll"
         ]
+    },
+    {
+        "id": "movie_0006",
+        "tmdb_id": 2397,
+        "video_id": "RNhrBGZZ_Tc",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-29",
+        "title": "Fallout",
+        "overview": "NASA and its Soviet-Russian counterpart prepare another mission to the permanent space station.",
+        "release_date": "1998-01-01",
+        "vote_average": 4.8,
+        "runtime": 90,
+        "poster_path": "/9ia0DiW1VKyxJENa0Yl81XYXxq2.jpg",
+        "backdrop_path": "/5GeglKAHMaK1pFvZJQ7KidIeUtd.jpg",
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            }
+        ],
+        "director": "Rodney McDonald",
+        "cast": [
+            "Daniel Baldwin",
+            "Frank Zagarino",
+            "Teri Ann Linn",
+            "Scott Valentine"
+        ]
     }
 ]
