@@ -322,5 +322,41 @@
             "Wrenn Schmidt",
             "Cody Saintgnue"
         ]
+    },
+    {
+        "id": "movie_0011",
+        "tmdb_id": 844380,
+        "video_id": "tR45DY0nm_k",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-29",
+        "title": "Nix",
+        "overview": "When a mysterious entity manifests itself, a family finds themselves on a scary and dark journey into their own self-created madness.",
+        "release_date": "2022-09-30",
+        "vote_average": 5.5,
+        "runtime": 94,
+        "poster_path": "/pmAFOmkhsTXJlRptAgoKn77Odue.jpg",
+        "backdrop_path": "/eWYJJComSRrnThuN4HlMmtnP1Nt.jpg",
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "director": "Anthony C. Ferrante",
+        "cast": [
+            "James Zimbardi",
+            "Dee Wallace",
+            "Michael Par\u00E9",
+            "Angie Teodora Dick"
+        ]
     }
 ]
