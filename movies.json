@@ -62,5 +62,41 @@
             "Harvey Keitel",
             "Ed Bishop"
         ]
+    },
+    {
+        "id": "movie_0003",
+        "tmdb_id": 397852,
+        "video_id": "ra0vF8YSvps",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-29",
+        "title": "Rendel",
+        "overview": "Rendel, a masked superhero, becomes blinded by his desire for revenge against a sinister criminal organization.",
+        "release_date": "2017-09-22",
+        "vote_average": 5.5,
+        "runtime": 105,
+        "poster_path": "/tZiNrIRYblaJZE9m0M80IU1E2zP.jpg",
+        "backdrop_path": "/tjo48bBTRicg4331EWMe1BWKZY8.jpg",
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            }
+        ],
+        "director": "Jesse Haaja",
+        "cast": [
+            "Kris Gummerus",
+            "Rami Rusinen",
+            "Renne Korppila",
+            "Matti Onnismaa"
+        ]
     }
 ]
