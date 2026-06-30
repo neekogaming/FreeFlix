@@ -555,5 +555,37 @@
             "Lars von Saldern",
             "Marian Filali"
         ]
+    },
+    {
+        "id": "movie_0018",
+        "tmdb_id": 187448,
+        "video_id": "nqFKzohbL3s",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-30",
+        "title": "Sins",
+        "overview": "David begins experiencing cloudy memories of a long-lost life amidst the violent Cortello family in Sicily, a family he ultimately betrayed. And the wages of sin are deadly.",
+        "release_date": "2012-05-05",
+        "vote_average": 2.3,
+        "runtime": 78,
+        "poster_path": "/vHGvyW4fx4G93NkpMkLqcwcqJu2.jpg",
+        "backdrop_path": "/4GKM2bo6rDFIJw1oTFDNsyizRML.jpg",
+        "genres": [
+            {
+                "id": 53,
+                "name": "Thriller"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            }
+        ],
+        "director": "Carlo Fusco",
+        "cast": [
+            "Steven Bauer",
+            "Ervin Bejleri",
+            "Danny Glover",
+            "Michael Madsen"
+        ]
     }
 ]
