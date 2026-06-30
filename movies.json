@@ -767,5 +767,33 @@
             "Charles Askenaizer",
             "Luke Balek"
         ]
+    },
+    {
+        "id": "movie_0024",
+        "tmdb_id": 1010283,
+        "video_id": "DiVWMrFv-r0",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-30",
+        "title": "Free Dead or Alive",
+        "overview": "Set along a dangerous trail to the Mexican border, where every migrant is prey to assault. A proud knife-wielding heroine born into impoverished circumstances must escape a ruthless cartel to find true freedom.",
+        "release_date": "2022-08-09",
+        "vote_average": 5.3,
+        "runtime": 106,
+        "poster_path": "/hxQLof5zQmgqCzbsrA8OmC9PgBv.jpg",
+        "backdrop_path": "/qweBXm8mDTQH2psUuwarMBZwTTY.jpg",
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            }
+        ],
+        "director": "Erik Bernard",
+        "cast": [
+            "Edy Ganem",
+            "Patricia Vel\u00E1squez",
+            "Seth Michaels",
+            "Robert LaSardo"
+        ]
     }
 ]
