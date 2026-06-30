@@ -659,5 +659,45 @@
             "Libby Blake",
             "Kevin Nash"
         ]
+    },
+    {
+        "id": "movie_0021",
+        "tmdb_id": 293562,
+        "video_id": "I7Poye0FJfg",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-30",
+        "title": "The Insomniac",
+        "overview": "John Figg has a great career and a gorgeous fianc\u00E9e. When he inherits a nice house in a quiet neighborhood, he finally starts to feel like his life is coming together. Trouble arises, however, when John\u0027s house is burglarized, and the thieves steal one of his most prized possessions.",
+        "release_date": "2013-12-27",
+        "vote_average": 4.3,
+        "runtime": 94,
+        "poster_path": "/ciyL3cWlYwYdImO8X9sZU6WEYZ.jpg",
+        "backdrop_path": "/pwA031hhUJbeHOArZ31B7pu0hmp.jpg",
+        "genres": [
+            {
+                "id": 9648,
+                "name": "Mystery"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "director": "Monty Miranda",
+        "cast": [
+            "Eddy Salazar",
+            "Clare Grant",
+            "Keith Szarabajka",
+            "Brett DelBuono"
+        ]
     }
 ]
