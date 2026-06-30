@@ -494,5 +494,34 @@
             "Louis Jourdan",
             "Ian McShane"
         ]
+    },
+    {
+        "id": "movie_0016",
+        "tmdb_id": 769273,
+        "video_id": "ds_VNsWnqxs",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-30",
+        "title": "Banger",
+        "overview": "When a turf war between two street crews leads to the death of a Haitian immigrant, his mother conjures up a spell to bring her son back from the grave to exact revenge on those responsible. The code of the street is simple, stay true to the gang; stay focused on the streets, but most importantly, stay alive.",
+        "release_date": "2016-05-14",
+        "vote_average": 3,
+        "runtime": 90,
+        "poster_path": "/qa6sBfXiDi9KBFlYMZ66hTmrzHe.jpg",
+        "backdrop_path": "",
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "director": "Mike Berry",
+        "cast": [
+            "LaShawn Little"
+        ]
     }
 ]
