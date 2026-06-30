@@ -434,5 +434,33 @@
             "Duncan Fraser",
             "Richard Newman"
         ]
+    },
+    {
+        "id": "movie_0014",
+        "tmdb_id": 256445,
+        "video_id": "PCoR2-3_Acs",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-30",
+        "title": "Safari",
+        "overview": "Safari is an American, found footage thriller film, set in South African wild, where animals and poachers rule the land. Two worlds collide when Mbali, a young zulu girl, meets an American tourist group who have come to explore and go on safari in South Africa. Things take a wrong turn after the group enter uncharted hunting grounds where they are forced to face the untamed wild.",
+        "release_date": "2013-10-29",
+        "vote_average": 5.2,
+        "runtime": 90,
+        "poster_path": "/2sX4rq4SmEsuu4WgD7dstjcQiyS.jpg",
+        "backdrop_path": "/5S3vYKUovvmJKhGspKb3LBPlARL.jpg",
+        "genres": [
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "director": "Darrell James Roodt",
+        "cast": [
+            "Kim Argetsinger",
+            "Carly Bailey",
+            "Carl Beukes",
+            "Chloe Kirby"
+        ]
     }
 ]
