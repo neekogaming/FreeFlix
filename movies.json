@@ -462,5 +462,37 @@
             "Carl Beukes",
             "Chloe Kirby"
         ]
+    },
+    {
+        "id": "movie_0015",
+        "tmdb_id": 575377,
+        "video_id": "95hHoLwGowo",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-30",
+        "title": "Grand Larceny",
+        "overview": "A woman who hasn\u0027t seen her father in 18 years, learns of his death and goes to his estate in France to carry out his wishes. She then learns that her father was a thief who after getting caught and going to prison and upon his release was approached by an insurance company, who wanted him to use his talents in helping them recover some valuables that had been stolen, which became his new job. Now that he is gone, he wants her to continue his work.",
+        "release_date": "1987-01-01",
+        "vote_average": 5,
+        "runtime": 95,
+        "poster_path": "/r8a09UhAx278XTqonaiQtAPaiDe.jpg",
+        "backdrop_path": "",
+        "genres": [
+            {
+                "id": 53,
+                "name": "Thriller"
+            },
+            {
+                "id": 9648,
+                "name": "Mystery"
+            }
+        ],
+        "director": "Jeannot Szwarc",
+        "cast": [
+            "Ritza Brown",
+            "Marilu Henner",
+            "Louis Jourdan",
+            "Ian McShane"
+        ]
     }
 ]
