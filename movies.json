@@ -731,5 +731,41 @@
             "Eric Roberts",
             "Joyce DeWitt"
         ]
+    },
+    {
+        "id": "movie_0023",
+        "tmdb_id": 742162,
+        "video_id": "zcvpZ1Kuta8",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-30",
+        "title": "The Coming",
+        "overview": "A group of young friends must use The Book as a guide to navigate though the chaos and destruction that is being unveiled right before their eyes for survival.",
+        "release_date": "2020-09-01",
+        "vote_average": 3.4,
+        "runtime": 0,
+        "poster_path": "/dCaNEopCM73X9fPjSM701PLWA1O.jpg",
+        "backdrop_path": "/peVqk1io4bsAfCXKqBpSVtzzxzZ.jpg",
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "director": "Joy Jones",
+        "cast": [
+            "Christina Alexandru",
+            "Jamelia Amor",
+            "Charles Askenaizer",
+            "Luke Balek"
+        ]
     }
 ]
