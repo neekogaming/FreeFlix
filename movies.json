@@ -587,5 +587,41 @@
             "Danny Glover",
             "Michael Madsen"
         ]
+    },
+    {
+        "id": "movie_0019",
+        "tmdb_id": 627122,
+        "video_id": "SC68ayjjw1A",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-30",
+        "title": "EXPO",
+        "overview": "With only three days to prove his innocence, a struggling ex-soldier (Derek Davenport) is forced to take one last job and save his client\u0027s kidnapped daughter (Amelia Haberman) or face time for a crime he did not commit.",
+        "release_date": "2019-08-03",
+        "vote_average": 4.9,
+        "runtime": 80,
+        "poster_path": "/rOq4rdpSVpQeBoksS3s0PiIWqoK.jpg",
+        "backdrop_path": "",
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "director": "Joseph Mbah",
+        "cast": [
+            "Derek Davenport",
+            "Amelia Haberman",
+            "Shepsut Wilson",
+            "Hayley Vrana"
+        ]
     }
 ]
