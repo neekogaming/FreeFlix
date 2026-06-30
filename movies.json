@@ -523,5 +523,37 @@
         "cast": [
             "LaShawn Little"
         ]
+    },
+    {
+        "id": "movie_0017",
+        "tmdb_id": 179310,
+        "video_id": "rOriUu7g2T0",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-30",
+        "title": "Gone to Maui",
+        "overview": "Mickey and Paniolo inherits a bar on a beach in Maui. What they do not know is that the bar is used by a group of drug dealers.",
+        "release_date": "1999-01-01",
+        "vote_average": 5,
+        "runtime": 90,
+        "poster_path": "/miy7p9xGzaypo1cSGCWh4piQVEO.jpg",
+        "backdrop_path": "",
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 10770,
+                "name": "TV Movie"
+            }
+        ],
+        "director": "",
+        "cast": [
+            "Pat Morita",
+            "Cesar Lopapa",
+            "Lars von Saldern",
+            "Marian Filali"
+        ]
     }
 ]
