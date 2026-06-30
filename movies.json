@@ -623,5 +623,41 @@
             "Shepsut Wilson",
             "Hayley Vrana"
         ]
+    },
+    {
+        "id": "movie_0020",
+        "tmdb_id": 565932,
+        "video_id": "e_dJRW5H4gM",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-30",
+        "title": "Klippers",
+        "overview": "An assassin is sent by his psychotic employer, to kill his ex-wife. In his quest to accomplish his task, he becomes familiar with his target, making his mission difficult. Now, he must face the consequences of his actions.",
+        "release_date": "2018-01-01",
+        "vote_average": 8,
+        "runtime": 93,
+        "poster_path": "/4fdxLnwYSMOppdjKVBh4aGvt0xM.jpg",
+        "backdrop_path": "/peROs76uFRzKtb7BNuTj0HDQGxm.jpg",
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "director": "Ofu Obekpa",
+        "cast": [
+            "Ofu Obekpa",
+            "Conphidance",
+            "Libby Blake",
+            "Kevin Nash"
+        ]
     }
 ]
