@@ -699,5 +699,37 @@
             "Keith Szarabajka",
             "Brett DelBuono"
         ]
+    },
+    {
+        "id": "movie_0022",
+        "tmdb_id": 771007,
+        "video_id": "ElnVwfLTkEY",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-30",
+        "title": "The Savant",
+        "overview": "An autistic high school student with fighting abilities is trained by a suspended police officer who has dreams of becoming a MMA fighter.",
+        "release_date": "2019-05-01",
+        "vote_average": 2,
+        "runtime": 85,
+        "poster_path": "/219ivtib99vg8ET6LXdpyMciBLw.jpg",
+        "backdrop_path": "",
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "director": "Sherri Kauk",
+        "cast": [
+            "Martin Kove",
+            "Robert Loggia",
+            "Eric Roberts",
+            "Joyce DeWitt"
+        ]
     }
 ]
