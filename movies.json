@@ -795,5 +795,33 @@
             "Seth Michaels",
             "Robert LaSardo"
         ]
+    },
+    {
+        "id": "movie_0025",
+        "tmdb_id": 380856,
+        "video_id": "nhX-JhXTzL8",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-30",
+        "title": "A Stand Up Guy",
+        "overview": "A low-level mobster takes a stab at stand-up comedy while in the Witness Protection Program.",
+        "release_date": "2016-02-09",
+        "vote_average": 5.1,
+        "runtime": 90,
+        "poster_path": "/141aFvHTqRXQMgUYvKGDhfNa35C.jpg",
+        "backdrop_path": "/5k0XfSrXscd2dt6NpGyUAt2Kxjw.jpg",
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "director": "Mike Young",
+        "cast": [
+            "Mackenzie Meehan",
+            "Michael Rapaport",
+            "Moran Atias",
+            "Wass Stevens"
+        ]
     }
 ]
