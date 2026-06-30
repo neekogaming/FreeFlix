@@ -398,5 +398,41 @@
             "Joan Sims",
             "Donald Sinden"
         ]
+    },
+    {
+        "id": "movie_0013",
+        "tmdb_id": 220768,
+        "video_id": "qDd3Wuliw3E",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-06-30",
+        "title": "Call Of The Wild",
+        "overview": "A young boy heads off to the Yukon after hearing tales about the Gold Rush, and he forms an unwavering friendship with a heroic Alsatian dog called Buck.",
+        "release_date": "1993-04-25",
+        "vote_average": 7.091,
+        "runtime": 97,
+        "poster_path": "/a4HDzplBOItwZ49qQXw6hoEcyF0.jpg",
+        "backdrop_path": "/5dyh7Xp8BYKjfKs3Ht5h3dDTWWe.jpg",
+        "genres": [
+            {
+                "id": 10751,
+                "name": "Family"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 10770,
+                "name": "TV Movie"
+            }
+        ],
+        "director": "Michael Toshiyuki Uno",
+        "cast": [
+            "Rick Schroder",
+            "Gordon Tootoosis",
+            "Duncan Fraser",
+            "Richard Newman"
+        ]
     }
 ]
