@@ -823,5 +823,41 @@
             "Moran Atias",
             "Wass Stevens"
         ]
+    },
+    {
+        "id": "movie_0026",
+        "tmdb_id": 401484,
+        "video_id": "Ux7mQo2xto8",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-07-01",
+        "title": "The Sweet Life",
+        "overview": "Kenny is an ice cream vendor in Chicago with a crisp white uniform and an apathetic heart. When he encounters Lolita, a sharp-tongued but despondent insurance actuary, their heated conversation, natural spark and mutual hopelessness lead to an unusual proposal for a meet-cute: to travel to San Francisco, where they will jump off the Golden Gate Bridge together.",
+        "release_date": "2017-09-13",
+        "vote_average": 6.176,
+        "runtime": 90,
+        "poster_path": "/3WEIsm0I3uLoySYXR0Er5yOk0c0.jpg",
+        "backdrop_path": "/jTuuXzSWTODicodqnt9M0Y1of7K.jpg",
+        "genres": [
+            {
+                "id": 10749,
+                "name": "Romance"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "director": "Rob Spera",
+        "cast": [
+            "Chris Messina",
+            "Abigail Spencer",
+            "Maggie Siff",
+            "Tyson Ritter"
+        ]
     }
 ]
