@@ -859,5 +859,37 @@
             "Maggie Siff",
             "Tyson Ritter"
         ]
+    },
+    {
+        "id": "movie_0027",
+        "tmdb_id": 381073,
+        "video_id": "uAN5oS7GSxA",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-07-01",
+        "title": "Operator",
+        "overview": "Joe, a programmer and obsessive self-quantifier, and Emily, a budding comedy performer, are happily married until they decide to use one another in their work. A dark comedy about love, technology, and what can\u2019t be programmed.",
+        "release_date": "2016-10-14",
+        "vote_average": 5.8,
+        "runtime": 89,
+        "poster_path": "/AbtYjEqtkoSDMuP4kNfZAQskat3.jpg",
+        "backdrop_path": "",
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "director": "Logan Kibens",
+        "cast": [
+            "Martin Starr",
+            "Mae Whitman",
+            "Nat Faxon",
+            "Cameron Esposito"
+        ]
     }
 ]
