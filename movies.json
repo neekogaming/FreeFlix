@@ -891,5 +891,41 @@
             "Nat Faxon",
             "Cameron Esposito"
         ]
+    },
+    {
+        "id": "movie_0028",
+        "tmdb_id": 876024,
+        "video_id": "OIG-xG6VC2Y",
+        "channel_id": "popcornflix",
+        "status": "active",
+        "last_checked": "2026-07-01",
+        "title": "The Cleaner",
+        "overview": "When middle-aged house cleaner Buck Enderly takes on an eccentric new client, he gets roped into locating her estranged son. Buck tracks down the disturbed young man but in another twist of fate becomes an accomplice to a violent crime. Buck must then decide whether to hide the truth from his family or come clean with everyone and move on with his life",
+        "release_date": "2021-10-12",
+        "vote_average": 5.391,
+        "runtime": 93,
+        "poster_path": "/vqBGCe4sdvScFSJVNkDxHAMDTYk.jpg",
+        "backdrop_path": "/qhPPEveBOh9IAY6ITNd71vR8jPN.jpg",
+        "genres": [
+            {
+                "id": 80,
+                "name": "Crime"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 9648,
+                "name": "Mystery"
+            }
+        ],
+        "director": "Erin Elders",
+        "cast": [
+            "Soleil Moon Frye",
+            "Luke Wilson",
+            "Lynda Carter",
+            "Eden Brolin"
+        ]
     }
 ]
